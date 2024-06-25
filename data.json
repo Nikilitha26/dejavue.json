@@ -37,6 +37,14 @@
     
         {
             "id":"5",
+            "firstName":"Kayden",
+            "lastName":"Hendrecks",
+            "gender":"Male",
+            "profile":"@smogen_69",
+            "contactDetails":"0621619892"
+        },
+        {
+            "id":"6",
             "firstName":"Jordan",
             "lastName":"Springveldt",
             "gender":"Female",
@@ -45,12 +53,20 @@
         },
     
         {
-            "id":"6",
+            "id":"7",
             "firstName":"Chloe",
             "lastName":"Almazien",
             "gender":"female",
             "profile":"@smogen_69",
             "contactDetails":"0606326162"
+        },
+        {
+            "id":"8",
+            "firstName":"Yonela",
+            "lastName":"Mangele",
+            "gender":"Male",
+            "profile":"YM0607005",
+            "contactDetails":"0684255886"
         }
     ],
     
